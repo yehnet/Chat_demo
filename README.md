@@ -23,6 +23,6 @@ will work on the following 3 coding projects:
 * Material-UI
 * Socket Programming
 	 
-instructed by Joseph Delgadillo.
+instructed by Joseph Delgadillo from Udemy.
 
 
