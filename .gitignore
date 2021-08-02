@@ -2,6 +2,9 @@
 
 # dependencies
 /node_modules
+/Weblog/node_modules/
+/Calculator_Application/node_modules/
+/Chat_Application/node_modules/
 /.pnp
 .pnp.js
 
@@ -24,3 +27,4 @@ yarn-error.log*
 
 /FullCourse/
 /.idea
+
