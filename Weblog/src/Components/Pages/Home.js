@@ -1,7 +1,10 @@
 import React, {Component} from "react";
 import Header from "../Common/Header";
-
 import headerImg from "../Assets/img/header-bg.jpg";
+
+//re-usable components
+import Services from "../Common/Services";
+import Portfolio from "../Common/Portfolio";
 
 class Home extends Component {
 
@@ -16,6 +19,9 @@ class Home extends Component {
                     showButton={true}
                     image={headerImg}
                 />
+
+                <Services/>
+                <Portfolio/>
             </div>
         )
     }
